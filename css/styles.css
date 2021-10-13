@@ -41,7 +41,7 @@ margin: 0% 1.2%;
 
 /* About us */
 .container-fluid {
-  max-width: 97%;
+  max-width: 96%;
   height: auto;
   margin: 2% 2%;
 }
@@ -137,7 +137,7 @@ ul {
   font-family: "Montserrat";
   max-width: 100%;
   height: auto;
-  margin: 15% 5s%;
+  margin: 10% 5s%;
   position: relative;
 }
 
@@ -149,8 +149,8 @@ ul {
 }
 
 .icons {
-  margin: 2% 3%;
-  padding: 2% 3% ;
+  margin: 0% 4%;
+  padding: 1% 2% ;
   text-align: center;
   background-color: #F2FFFD;
   font-size: 20px;
@@ -162,6 +162,12 @@ ul {
 .container-fluid3 {
   max-width: 100%;
   height: auto;
-  margin: 2% 1;
-  background-color: #F2FFFD;
+  margin: 1% 1;
+  background-color: #8ce5df;
+}
+@media (max-width: 600px){
+    .col2 {
+    padding: 3%;
+    margin-left: 4.6%;
+    max-width: 93%;
 }

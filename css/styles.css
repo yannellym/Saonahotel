@@ -1,0 +1,167 @@
+/* Navigation bar */
+#navigation-bar {
+font-family: "Montserrat";
+margin: 0% 1.2%;
+}
+
+.navbar {
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.navbar a:hover {
+  background-color: #F2FFFD;
+  color: black;
+}
+
+
+/* Home */
+.title-img {
+  padding: 0% 2%;
+}
+.home-img {
+  height: 300px;
+  width: 1430px;
+  margin-left: 2%;
+  /*position: absolute;*/
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+/* About us */
+.container-fluid {
+  max-width: 97%;
+  height: auto;
+  margin: 2% 2%;
+}
+.image-heading {
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Montserrat";
+}
+.image-description {
+  text-align: justify;
+  padding: 2% 3%;
+  line-height: 2;
+  font-family: "Ubuntu";
+}
+
+.aboutus-imgs {
+  max-width: 100%;
+  height: auto;
+  padding: 10% 5%;
+}
+
+
+
+/* Columns */
+.main-col {
+  float: left;
+  width: 70%;
+}
+.sidebar-col {
+  position: relative;
+  width: 29%;
+  background-color: #8ce5df;
+  height:700px;
+  margin-left: 69%;
+}
+
+
+.columns {
+  height: 600px;
+}
+
+
+
+/* locations */
+
+.locations1 {
+  padding-left: 2%;
+
+}
+.locations-description {
+  padding: 2%;
+  text-align: left;
+  line-height: 2;
+  font-family: "Ubuntu";
+}
+
+.col2 {
+  background-color: #8ce5df;
+  max-width: 30%;
+  height: auto;
+}
+
+ul {
+  font-size: 19px;
+}
+
+/* Gallery */
+
+
+/* Book */
+.book-description {
+  margin-left: 2%;
+  margin-right: 2%
+  font-family: "Ubuntu";
+}
+
+.all-inclusive {
+  background-color: #F2FFFD;
+  height: auto;
+  margin-top: 2%;
+  padding-top: 2%;
+  text-align: left;
+  line-height: 2;
+  font-family: "Montserrat";
+
+}
+
+.accomodations {
+  text-align: justify;
+  line-height: 2;
+  padding: 2% 3%;
+  width:75%;
+  font-family: "Montserrat";
+  max-width: 100%;
+  height: auto;
+  margin: 15% 5s%;
+  position: relative;
+}
+
+
+
+.book-img {
+  width: 700px;
+  height: 300px;
+}
+
+.icons {
+  margin: 2% 3%;
+  padding: 2% 3% ;
+  text-align: center;
+  background-color: #F2FFFD;
+  font-size: 20px;
+}
+
+
+/* Footer */
+
+.container-fluid3 {
+  max-width: 100%;
+  height: auto;
+  margin: 2% 1;
+  background-color: #F2FFFD;
+}

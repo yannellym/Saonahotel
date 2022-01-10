@@ -1,5 +1,5 @@
 # saonahotel
-Hi! This is the first website I create on my own, no tutorial! This website is for a fictional hotel called "Saona Hotel". It is located in Puerto Plata, Dominican Republic.  Check out my progress below:
+Hi! This is the first website I ever created on my own, no tutorial! This website is for a fictional hotel called "Saona Hotel". It is located in Puerto Plata, Dominican Republic.  Check out my progress below:
 
 Final Version:
 
